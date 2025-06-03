@@ -2,34 +2,24 @@
 (Deixa eu te falar... esse readme ta em inglês pra alcançar mais pessoas, eu confio no seu potêncial ❤️)
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/cGkseWZQZRYAAAAd/anime-happiness.gif">
+<img hight="100" width="300" alt="GIF" align="center" src="https://media1.tenor.com/m/cGkseWZQZRYAAAAd/anime-happiness.gif">
 </div>
-
-</br>
-</br>
-</br>
-
 
 # About ME 💬 :
 
 ### - I'm a 21-year-old QA Assistant and Computer Engineering student from Brazil.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/E_t61-DDcXMAAAAC/maomao-apothecary-diaries.gif">
+<img hight="100" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/E_t61-DDcXMAAAAC/maomao-apothecary-diaries.gif">
 
 ### - Learning :
 - ✨ JavaScript/TypeScript
 - ✨ Tools for testing: Playwright, Appium.
 - ✨ APIs for automation with scripts: Postman.
 - ✨ CI/CD: GitLab CI and Jenkins.
-- 
 ### - Hobbies : 
 - ✨ Movie addict
 - ✨ I like driving.
 - ✨ Chess (I've won championships)
-
-</br>
-</br>
-
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
@@ -54,8 +44,6 @@
   <br>
   <img src="https://raw.githubusercontent.com/eusoubabi/eusoubabi/main/assets2/web.svg" alt="web" width="90" height="50">
 </p>
-</br>
-</br>
 
 # Contact Me 📲:
  If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
@@ -68,9 +56,6 @@
   <img align="left" alt="LinkedIn" width="150" height="38" src="https://raw.githubusercontent.com/eusoubabi/eusoubabi/main/assets2/linkedin.png" />
 </a>
 </br>
-</br>
-</br>
-</a>
 
 
 
