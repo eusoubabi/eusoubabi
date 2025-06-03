@@ -20,6 +20,7 @@
 - ✨ Movie addict
 - ✨ I like driving.
 - ✨ Chess (I've won championships)
+</br>
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
