@@ -9,7 +9,7 @@
 
 ### - I'm a 21-year-old QA Assistant and Computer Engineering student from Brazil.
 <div align="center">
-<img src="https://raw.githubusercontent.com/eusoubabi/eusoubabi/main/assets2/meme.svg" alt="meme" hight="100" width="300">
+<img src="https://raw.githubusercontent.com/eusoubabi/eusoubabi/main/assets2/meme.png" alt="meme" hight="100" width="300">
 </div>div>
 
 <img hight="100" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/E_t61-DDcXMAAAAC/maomao-apothecary-diaries.gif">
