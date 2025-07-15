@@ -8,11 +8,14 @@
 # About ME 💬 :
 
 ### - I'm a 21-year-old QA Assistant and Computer Engineering student from Brazil.
-<div align="center">
-<img src="https://raw.githubusercontent.com/eusoubabi/eusoubabi/main/assets2/meme.png" alt="meme" hight="100" width="300">
-</div>div>
+### - The most common thing I hear at work:
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/eusoubabi/eusoubabi/main/assets2/meme.png" alt="meme" hight="100" width="400">
 
 <img hight="100" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/E_t61-DDcXMAAAAC/maomao-apothecary-diaries.gif">
+</div>
+
 ### - Learning :
 - ✨ JavaScript/TypeScript
 - ✨ Tools for testing: Playwright, Appium.
